@@ -27,35 +27,10 @@ I build AI engineering systems that actually ship — multi-agent pipelines, ret
 
 ---
 
-### Featured work
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-#### [PR-Pilot](https://github.com/ismailingg/PR-Pilot)
-A virtual senior engineer that reviews your pull requests automatically — catches security flaws, checks code intent, and posts a verdict directly inside GitHub.
-
-`CrewAI` · `FastAPI` · `Semgrep` · `Pydantic v2`
-
-</td>
-<td width="50%" valign="top">
-
-#### [RepoInsight AI](https://github.com/ismailingg/RepoInsight-AI)
-Ask any GitHub repo a question, get an answer cited to the exact file and line. AST chunking, hybrid retrieval, bring-your-own-keys.
-
-`RAG` · `tree-sitter` · `Qdrant` · `FastAPI`
-
-</td>
-</tr>
-</table>
-
----
-
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=ismailingg&show_icons=true&hide_border=true&title_color=1D9E75&icon_color=5DCAA5&text_color=c9d1d9&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailingg&layout=compact&hide_border=true&title_color=1D9E75&text_color=c9d1d9&bg_color=0D1117" />
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=ismailingg&show_icons=true&hide_border=true&hide=stars&title_color=1D9E75&icon_color=5DCAA5&text_color=c9d1d9&bg_color=0D1117&count_private=true" />
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ismailingg&layout=compact&hide_border=true&title_color=1D9E75&text_color=c9d1d9&bg_color=0D1117" />
 
 <br/>
 
