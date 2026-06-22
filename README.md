@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:04342C,50:0F6E56,100:1D9E75&height=200&section=header&text=Syed%20Ismail%20Ahmed&fontSize=42&fontColor=E1F5EE&animation=fadeIn&fontAlignY=38&desc=building%20AI%20systems%20and%20deploying%20them%20properly&descSize=16&descColor=9FE1CB&descAlignY=58" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=CS+%40+FAST+NUCES+Karachi;I+care+about+what's+under+the+hood%2C+not+just+calling+APIs;Multi-agent+pipelines+%C2%B7+RAG+%C2%B7+structured+output+reliability" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=1D9E75&center=true&vCenter=true&width=600&lines=CS+%40+FAST+NUCES+Karachi;I+care+about+what's+under+the+hood%2C+not+just+calling+APIs; Multi-agent+pipelines+%C2%B7+RAG+%C2%B7+structured+output+reliability " alt="Typing SVG" /></a>
 
 </div>
 
